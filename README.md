@@ -28,3 +28,6 @@
   - "clientsocket.recv(1024)" ile gelen veri alınmıştır.
   -  "print("Trial {}, delay: {} seconds ".format(i,time() - start_time)) " veri alındıktan sonra gönderilme ve alınma zamanı arasındaki gecikme hesaplanmıştır.
   -  Bu kısımda da herhangi bir bağlantı problemini engellemek için try-exception yapısı kullanılmıştır.
+
+
+NOT: Projeye ait sunum ve client/server kısımlarında çıkması gereken görseller dosyaya yerleştirilmiştir.
